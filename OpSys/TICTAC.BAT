@@ -1,3 +1,5 @@
+::::::::::::::::::::::::::::::::::::::::: THIS IS NOT MY ORIGNAL BUT TAKEN FROM YOUTUBE ( OPEN SOURCE CODE ) ::::::::::::::::::::::::::::::::::
+
 @ECHO OFF
 color f0
 @mode con cols=80 lines=25
